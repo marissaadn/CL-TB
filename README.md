@@ -34,7 +34,7 @@
 
 1. Clone repository di lokal dengan git command
 ```
-git clone git@github.com:mellasylvie/CL-TB_Capstone.git
+git clone git@github.com:marissaadn/CL-TB.git
 ```
 2. Pastikan sudah menginstal resources yang dibutuhkan, termasuk library dan framework 
 3. Buka Visual Studio Code
